@@ -1,0 +1,1 @@
+{ "short_name": "Jorge Dimter", "name": "Jorge Dimter | Portfolio", "icons": [{ "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" }], "start_url": ".", "display": "standalone", "theme_color": "#060b16", "background_color": "#060b16" }
