@@ -42,11 +42,10 @@ export const ui = {
     hello: "¡Hola!",
     iam: "SOY",
     typewriter: [
-      "IA para mejorar Chile",
-      "IA para una mejor salud en Chile",
-      "Ciencia que llega a la clínica",
-      "Datos al servicio de las personas",
-      "Del telescopio al microscopio",
+      "IA al servicio de las personas",
+      "IA responsable",
+      "IA que apoya, no reemplaza",
+      "Modelos interpretables y confiables",
     ],
     introTitle: ["DÉJAME", "PRESENTARME"],
     intro: [
@@ -145,11 +144,10 @@ export const ui = {
     hello: "Hi there!",
     iam: "I'M",
     typewriter: [
-      "AI to make Chile better",
-      "AI for better healthcare in Chile",
-      "Science that reaches the clinic",
-      "Data that serves people",
-      "From telescope to microscope",
+      "AI that serves people",
+      "Responsible AI",
+      "AI that supports, not replaces",
+      "Interpretable, trustworthy models",
     ],
     introTitle: ["LET ME", "INTRODUCE MYSELF"],
     intro: [
