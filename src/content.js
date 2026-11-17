@@ -65,10 +65,13 @@ export const ui = {
         procesamiento de lenguaje natural.
       </>,
       <>
-        Vengo de la astrofísica: soy{" "}
+         Vengo de la astrofísica: soy{" "}
         <b className="purple">Licenciado en Astronomía con Distinción Máxima</b>{" "}
-        (PUC) y trabajé con espectroscopía de <i>VLT/MUSE</i>, fotometría,
-        interferometría con <i>ALMA</i> y simulaciones de N cuerpos.
+        (PUC). En mi tesis estudié{" "}
+        <b className="purple">núcleos galácticos activos en vacíos cósmicos</b>{" "}
+        con espectroscopía de campo integral de <i>VLT/MUSE</i>, analizando su
+        formación estelar y metalicidad para entender cómo el entorno influye en
+        su evolución.
       </>,
       <>
         Fuera de la academia, he trabajado como analista/científico de datos en la{" "}
@@ -166,15 +169,16 @@ export const ui = {
       <>
         I come from astrophysics: I hold a{" "}
         <b className="purple">B.Sc. in Astronomy with Highest Distinction</b>{" "}
-        (PUC) and worked with <i>VLT/MUSE</i> spectroscopy, photometry,{" "}
-        <i>ALMA</i> interferometry, and N-body simulations.
+        (PUC). My thesis studied{" "}
+        <b className="purple">active galactic nuclei in cosmic voids</b> using{" "}
+        <i>VLT/MUSE</i> integral field spectroscopy, analyzing their star
+        formation and metallicity to understand how environment shapes their
+        evolution.
       </>,
       <>
-        I also bring <b className="purple">industry</b> experience: as a data
-        analyst I built dashboards, benchmarking analyses, AI agents, and CRM
-        setups for mining consultancy, implemented Pipedrive for MINMETAL as a
-        freelancer, and developed weather and risk models for Codelco
-        projects. I complemented this with the{" "}
+        Outside academia, I've applied data science in the{" "}
+        <b className="purple">mining industry</b>, working with consultancies
+        and on projects for Codelco. I complemented this with the{" "}
         <b className="purple">Data Science Diploma</b> from UAI.
       </>,
     ],
