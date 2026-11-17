@@ -71,11 +71,9 @@ export const ui = {
         interferometría con <i>ALMA</i> y simulaciones de N cuerpos.
       </>,
       <>
-        También tengo experiencia en <b className="purple">industria</b>: como
-        analista de datos desarrollé dashboards, benchmarking, agentes de IA y
-        CRM para consultoría minera, implementé Pipedrive para MINMETAL como
-        freelance, y desarrollé modelos meteorológicos y de riesgo para
-        proyectos de Codelco. Complementé eso con el{" "}
+        Fuera de la academia, he trabajado como analista/científico de datos en la{" "}
+        <b className="purple">industria minera</b>, trabajando con multiples consultoras
+        y en proyectos para grandes mineras. Complementé esa experiencia con el{" "}
         <b className="purple">Diplomado en Ciencia de Datos</b> de la UAI.
       </>,
     ],
